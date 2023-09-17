@@ -1,0 +1,14 @@
+.img-di{
+    height:100vh;   
+    object-fit: cover;
+}
+
+.item-di{
+    height: 100vh;
+
+}
+
+.btn{
+    background-color: aqua;
+}
+
